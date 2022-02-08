@@ -1,0 +1,13 @@
+{
+    "name": "sdx/calculator_package",
+    "description": "for test purpose",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sdx\\CalculatorPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
